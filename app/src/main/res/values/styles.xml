@@ -7,5 +7,13 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
 
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">wndbINiEcttQo9GoBztNMJYVQAZhapKkEjdrVVxL</string>
+    <string name="back4app_client_key">wFjPyWq5tz2K7Op0lVehGAZdt97qSXTbhg7ZPbGW</string>
+
+    <style name="splashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
 </resources>
